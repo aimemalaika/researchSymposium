@@ -1,0 +1,106 @@
+/***** Theme Primary Color (Blue) ******/
+
+/* color */
+a:hover,
+.tc-color,
+.welcome-text .welcome-title i,
+.welcome-text article q,
+.main-heading > span i,
+.schedules-tab-nav li.active a::after,
+.time-location li,
+.speaker-name li,
+.news-post .detail .btn,
+.reserve-btn .btn,
+.address-widget i,
+.news-latter .btn:hover,
+.sub-footer p a,
+.post-detail .meta-post ul li:last-child,
+.top-left ul li i,
+.login-options li i,
+.address-list li i,
+.hotel-view .detail .btn,
+.address-widget.white .btn,
+.speaker-detail .btn,
+.error-content h1,
+.address-widget .btn,
+.speaker-widget.program-aurthor .address-list li,
+.footer-link ul li a:hover,
+.previous-videos .caption .btn:hover,
+.news-latter .btn:hover,
+.schedules-tab-nav li article,
+.schedules-tab-nav li a,
+.a-link:hover
+{color: #0f77af;}
+
+
+/* Background Color */
+.btn,
+.btn.white:hover,
+.btn.light:hover,
+.pagination-holder ul li a:hover,
+.social-icons li a:hover,
+.break-widget .time,
+.sponsers-slider-holder .sponsers-title,
+.accomodations-slider .slick-dots li.slick-active,
+.news-latter,
+.tc-social-icons.style-2 li a:hover,
+.tc-pagination ul li a:hover,
+.post-detail article blockquote,
+.prcing.style-2 .pricing-img .pricing-title,
+.cart-option a,
+.nav-holder.style-3 .search-bar button,
+.hotel-view .rating-stars,
+.hotel-view .price,
+.before-hover,
+.tc-social-icons.style-3 ul li a:hover,
+.error-content .search-bar button,
+.team-figure:hover .btn.sm,
+.play-icon:hover,
+.aside-widget .search-bar button,
+.tag-cloud a:hover,
+.categories-list ul li a:hover,
+.tc-social-icons ul li a:hover,
+.toggleMenu,
+.team-slider .slick-arrow:hover::before,
+.nav-list li ul li a,
+.btn:active,
+.login-form .close,
+.scrollup,
+.schedules-tab-nav li.active a,
+.a-link
+{background: #f9c40b;}
+
+/* Border Color */
+.btn.light:hover,
+.pagination-holder ul li a:hover,
+.tc-social-icons.style-2 li a:hover,
+.tc-pagination ul li a:hover,
+.nav-holder.style-3 .search-bar button,
+.tc-social-icons.style-3 ul li a:hover,
+.team-figure:hover .btn.sm,
+.play-icon:hover,
+.tag-cloud a:hover,
+.categories-list ul li a:hover,
+.team-slider .slick-arrow:hover::before
+{ border-color: #1b8af3;}
+
+
+/* Background RGba Color Dark */
+.previous-videos::before,
+.address-overlay,
+.address-overlay .show-btn
+{ background: rgba( 27, 138, 243, 0.85);}
+
+/* Background RGba Color Light */
+.team-figure.style-3::before
+{ background: rgba( 27, 138, 243, 0.7);}
+
+/* Background RGba Color Extra Light */
+.team-figure.style-3::before
+{ background: rgba( 27, 138, 243, 0.5);}
+
+/* Triangel Border */
+.btn:before{border-color: transparent transparent transparent #1b8af3;}
+.btn:after{border-color: transparent #1b8af3 transparent transparent;}
+.instagram-slider li a::before{border-color: rgba( 27, 138, 243, 0.85) transparent transparent transparent;}
+

@@ -1,0 +1,39 @@
+/* Theme transition Effect */
+*:after,
+*:before,
+a,
+p,
+h1,h2,h3,h4,h5,h6,
+button,
+.team-figure figcaption,
+.team-figure figcaption .tc-social-icons,
+.testimonial-slider .slick-dots li,
+.hotel-view .rating-stars,
+.hotel-view .price,
+.before-hover,
+.login-wrap,
+.hotel-view figure img,
+.nav-list li ul,
+.nav-list li ul li a,
+.instagram-slider li a > img,
+.schedules-widget,
+.welcome-img img,
+.toltip,
+.news-post figure img,
+.address-overlay,
+.overlay-dark,
+.schedules-tab-nav li a span,
+.overlay-padding,
+.nav-nd-search
+{-webkit-transition: all 0.5s ease-in-out;
+-moz-transition: all 0.5s ease-in-out;
+-ms-transition: all 0.5s ease-in-out;
+-o-transition: all 0.5s ease-in-out;
+transition: all 0.5s ease-in-out;}
+
+
+
+
+
+
+
